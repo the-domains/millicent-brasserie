@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000014'
+    - '#FCFFFF'
+    - '#614E54'
+    - '#A5A27F'
+    - '#78021C'
+  brandStrength: 0.605263
+  lightness: 0.017742
+  rhythmicContrast: 0.662007
+  saturation: 0.517207
+cta: {}
+layout_spectrum: 0.598509
+name: Millicent Brasserie
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.518092
