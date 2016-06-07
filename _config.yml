@@ -7,9 +7,9 @@ color:
     - '#A5A27F'
     - '#78021C'
   brandStrength: 0.605263
-  lightness: 0.017742
-  rhythmicContrast: 0.662007
-  saturation: 0.517207
+  lightness: 0.10773
+  rhythmicContrast: 0.207237
+  saturation: 0.249178
 cta: {}
 layout_spectrum: 0.598509
 name: Millicent Brasserie
