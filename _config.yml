@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.518092
 color:
   brandColors:
     - '#000014'
@@ -10,9 +10,10 @@ color:
   lightness: 0.10773
   rhythmicContrast: 0.207237
   saturation: 0.249178
-cta: {}
-layout_spectrum: 0.598509
-name: Millicent Brasserie
 opengraph: {}
+layout_spectrum: 0.598509
+analytics: {}
+name: Millicent Brasserie
+cta: {}
+title: Oklahoma's first and only multi-sensory restaurant
 purpose: {}
-typography_spectrum: 0.518092
